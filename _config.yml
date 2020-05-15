@@ -1,0 +1,8 @@
+makecode:
+  target: maker
+  platform: codal
+  home_url: /
+theme: jekyll-theme-slate
+include:
+  - assets
+  - README.md
